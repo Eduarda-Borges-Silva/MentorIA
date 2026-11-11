@@ -1,4 +1,4 @@
-# MentorAI
+# MentorIA
 
 Plataforma para acelerar estudos através de geração inteligente de flashcards, chat com documentos (MentorAI Assistant) e gerenciamento de coleções. Inclui frontend moderno (React + Vite + Tailwind + shadcn/ui) e backend Node/Express com MongoDB e JWT.
 
@@ -62,8 +62,8 @@ Utilidades:
 ## Instalação
 Clone o repositório:
 ```bash
-git clone https://github.com/dudumiranda3105/MentorAI.git
-cd MentorAI
+git clone https://github.com/Eduarda-Borges-Silva/MentorIA.git
+cd MentorIA
 ```
 
 Instale dependências do backend:
